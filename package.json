@@ -1,7 +1,7 @@
 {
   "name": "Aditya_jha-portfolio",
   "version": "0.1.0",
-  "homepage": "",
+  "homepage": "http://Aditya02jha.github.io/Aditya_jha-Portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
